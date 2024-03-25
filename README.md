@@ -1,9 +1,9 @@
 # Group Number: 13
 
 ## Group Members:
-- Shah Md. Shakhawath Hossain, 18101133
-- Md. Asiful Islam, 17201077 
-- Mahedi Hasan Shanto, 18301185
+- Shah Md. Shakhawath Hossain - 18101133
+- Md. Asiful Islam - 17201077 
+- Mahedi Hasan Shanto - 18301185
 
 ------------------------------------------------------------------------------------------
 
