@@ -11,7 +11,7 @@
 
 "Multimodal Analysis of Soil Reports and Crop Text Descriptions for Crop Yield Prediction"
 
-## Overleaf link: 
+## Overleaf: 
 
 https://www.overleaf.com/3844163483jyvynhprqxfd#e7b66a
 
@@ -21,7 +21,7 @@ https://www.overleaf.com/3844163483jyvynhprqxfd#e7b66a
 
 "Utilizing Natural Language Processing for Automatic Genre Classification of Movies"
 
-## Overleaf link:
+## Overleaf:
 
 https://www.overleaf.com/4462332166srmytsmvyjhf#d5f078
 
